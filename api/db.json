@@ -1,0 +1,45 @@
+{
+  "panels": [
+    {
+      "id": 1,
+      "title": "Bleach",
+      "episodes": 366,
+      "imageUrl": "https://sucodemanga.com.br/wp-content/uploads/2020/03/bleach.jpg",
+      "url": "https://www.crunchyroll.com/pt-br/bleach"
+    },
+    {
+      "id": 2,
+      "title": "Sakura Card Captor",
+      "episodes": 22,
+      "imageUrl": "http://cdn30.us1.fansshare.com/image/cardcaptorsakurathemovie/cardcaptorsakurafull-wallpaper-1322317493.jpg",
+      "url": "https://www.crunchyroll.com/pt-br/cardcaptor-sakura-clear-card"
+    },
+    {
+      "id": 3,
+      "tittle": "Naruto Shippuden",
+      "episodes": 500,
+      "imageUrl": "https://maestrovirtuale.com/wp-content/uploads/2019/10/frases-de-Naruto-serielifederimagen1.jpg",
+      "url": "https://www.crunchyroll.com/pt-br/naruto-shippuden"
+    },
+    {
+      "id": 4,
+      "tittle": "Attack on Titan",
+      "episodes": 75,
+      "imageUrl": "https://i.pinimg.com/564x/1d/54/21/1d5421eca1ef4e16eaaac0361e6978fc.jpg",
+      "url": "https://www.crunchyroll.com/pt-br/attack-on-titan"
+    }
+  ],
+
+  "comments": [
+    {
+      "id": 1,
+      "comment": "Alguém cancela a Inoue?",
+      "panelId": 1
+    },
+    {
+      "id": 2,
+      "comment": "Shippo muito Yukito e Touya <3",
+      "panelId": 2
+    }
+  ]
+}
